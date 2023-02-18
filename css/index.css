@@ -1,0 +1,18 @@
+/*header .img{
+    border: transparent solid 2px;
+    border-radius: 100%;
+    border-image: linear-gradient(101.67deg,#48cce0 7.24%,#505add 34.12%,#be40c0 62.93%,#fba82b 92.22%);
+    border-image-slice: 1;
+}*/
+.albums .card:hover{
+    outline: 4px solid #ffdb4d;
+}
+.albums a{
+    color: black;
+}
+@media(max-width: 768px){
+    .albums p{
+    font-size: 13px
+    }
+}
+
