@@ -38,3 +38,10 @@ header .nav-link:active{
 header .nav{
     gap: 10px;
 }
+header .main{
+    border-bottom: 3px solid red;
+    margin-bottom: -3px;
+}
+header .nav{
+    padding: 0;
+}
